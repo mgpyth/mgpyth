@@ -1,4 +1,4 @@
 >. Infomration systems student.
->My primary interest are information security and system analysis.
->Currently learning python and honing my skills in it.
+>My main interests are in security and data.
+>I'm currently trying to hone my skills in python.
 >
