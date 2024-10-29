@@ -1,4 +1,4 @@
 >. Information systems student.
->My main interests are in security and data.
->I'm currently trying to hone my skills in python.
+>My main interest is in security, I'm currently working on side projects and competing in competitions.
+>Intermediate level in python and SQL
 >
